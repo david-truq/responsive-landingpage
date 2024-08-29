@@ -1,5 +1,5 @@
 import './App.css';
-import {Navbar, Nav, NavDropdown, Container, Row, Col, Image, Button, Card} from 'react-bootstrap'
+import {Navbar, Nav, NavDropdown, Container, Row, Col, Image, Button, Card} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
