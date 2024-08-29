@@ -37,7 +37,7 @@ function App() {
         <Col sm={7}><Image src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/03/Eren-Cut-Hand-Header.jpg" fluid rounded className='' /></Col>
         <Col sm={5}>
           <h1 class='font-weigh-light'>Anime-land</h1>
-          <p class="mt-4"> The home of Anime, we do cool sturvs here. Whatever you need, be it recommendatioss, genre classifications, merch, anime fan battle, events and so on.
+          <p class="mt-4"> The home of Anime, we do cool sturvs here. Whatever you need, be it recommendatioss, genre classifications, merch, anime fan battle, events and so on and so forth.
           check us out on instagram and tik-tok, linkedIn too (why not, this is serious business) #PlusUltra.</p>
           <Button variant="outline-secondary">Hit Us Up</Button>
         </Col>
